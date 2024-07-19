@@ -1,4 +1,4 @@
-Hello there, I'm Danil Nikolaev.
+Hello there.
 
 
 
