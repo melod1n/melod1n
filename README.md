@@ -49,7 +49,7 @@ Outside of GitHub I maintain a small self-hosted setup:
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-lischenkodev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lischenkodev@gmail.com)
-[![Website](https://img.shields.io/badge/Website-melod1n.github.io-000000?style=flat&logo=githubpages&logoColor=white)](https://melod1n.github.io)
+[![Website](https://img.shields.io/badge/Website-melod1n.github.io-000000?style=flat&logo=google-chrome&logoColor=white)](https://melod1n.github.io)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@melod1n-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/melod1n)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-melod1n-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melod1n)
