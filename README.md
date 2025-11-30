@@ -1,5 +1,4 @@
-Hello there.
-
+Android & Kotlin Multiplatform developer. Also building self-hosted infrastructure, backends, bots and local-first AI tooling.
 
 
 
