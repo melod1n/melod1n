@@ -8,13 +8,6 @@ Android & Kotlin Multiplatform developer building apps, bots and infrastructure 
 
 ---
 
-### GitHub profile stats
-
-[![GitHub followers](https://img.shields.io/github/followers/melod1n?label=Followers&style=social)](https://github.com/melod1n?tab=followers)
-[![Total stars](https://img.shields.io/github/stars/melod1n?affiliations=OWNER&style=social)](https://github.com/melod1n?tab=repositories&q=&type=source&sort=stargazers)
-
----
-
 ## What I'm working on
 
 - **[fast-messenger](https://github.com/melod1n/fast-messenger)**  
@@ -44,6 +37,9 @@ Outside of GitHub I maintain a small self-hosted setup:
 ---
 
 ## GitHub stats
+
+[![GitHub followers](https://img.shields.io/github/followers/melod1n?label=Followers&style=social)](https://github.com/melod1n?tab=followers)
+[![Total stars](https://img.shields.io/github/stars/melod1n?affiliations=OWNER&style=social)](https://github.com/melod1n?tab=repositories&q=&type=source&sort=stargazers)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=melod1n&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melod1n&show_icons=true&theme=radical&count_private=true&layout=compact&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
