@@ -16,6 +16,9 @@ Android & Kotlin Multiplatform developer building apps, bots and infrastructure 
 - **[ovs-kmp](https://github.com/melod1n/ovs-kmp)**  
   Kotlin Multiplatform app using Compose Multiplatform for Android, desktop, iOS and web.
 
+- **[tg-chat-bot](https://github.com/melod1n/tg-chat-bot)**
+  TypeScript + Node.js/Bun Telegram Bot with a lot of commands, DB, AI (Ollama/Gemini), Docker and CI/CD.
+
 - **[vk-chat-bot](https://github.com/melod1n/vk-chat-bot)**  
   TypeScript + Node.js VK bot with Docker and CI/CD.
 
