@@ -3,7 +3,7 @@
 Android & Kotlin Multiplatform developer building apps, bots and infrastructure around networking and local AI.
 
 - Mainly working with Kotlin / Jetpack Compose / Compose Multiplatform
-- Also build Telegram / VK bots and local LLM tools (Ollama)
+- Also build Telegram / VK bots and local LLM tools (Ollama/Gemini/Mistral/OpenAI)
 - Enjoy self-hosting: Gitea, Jenkins, Docker
 
 ---
