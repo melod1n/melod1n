@@ -13,20 +13,14 @@ Android & Kotlin Multiplatform developer building apps, bots and infrastructure 
 - **[fast-messenger](https://github.com/melod1n/fast-messenger)**  
   Unofficial VK messenger with modern Android stack (Compose, coroutines, modular architecture).
 
+- **[tg-chat-bot](https://github.com/melod1n/tg-chat-bot)**  
+  TypeScript + Node.js/Bun Telegram Bot with a lot of commands, DB, AI (Ollama/Gemini/Mistral/OpenAI), Docker and CI/CD.
+
 - **[ovs-kmp](https://github.com/melod1n/ovs-kmp)**  
   Kotlin Multiplatform app using Compose Multiplatform for Android, desktop, iOS and web.
 
-- **[tg-chat-bot](https://github.com/melod1n/tg-chat-bot)**  
-  TypeScript + Node.js/Bun Telegram Bot with a lot of commands, DB, AI (Ollama/Gemini/Mistral), Docker and CI/CD.
-
 - **[vk-chat-bot](https://github.com/melod1n/vk-chat-bot)**  
   TypeScript + Node.js VK bot with Docker and CI/CD.
-
-- **[ollama-summarizer](https://github.com/melod1n/ollama-summarizer)**  
-  FastAPI service that fetches articles, cleans HTML, chunks content and uses Ollama to generate summaries and tags.
-
-- **[ollama-tg-bot](https://github.com/melod1n/ollama-tg-bot)**  
-  Simple Telegram bot (Bun + TypeScript) that talks to local LLMs via Ollama.
 
 ---
 
@@ -34,7 +28,7 @@ Android & Kotlin Multiplatform developer building apps, bots and infrastructure 
 
 Outside of GitHub I maintain a small self-hosted setup:
 
-- Gitea for Git hosting and Jenkins for CI/CD pipelines  
+- [Gitea](https://gitea.mlgt.ru) with Gitea Actions for Git hosting and CI/CD pipelines  
 - Multiple services running in Docker on local servers (bots, backends, tools, media apps)
 
 ---
