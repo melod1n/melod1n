@@ -16,12 +16,6 @@ Android & Kotlin Multiplatform developer building apps, bots and infrastructure 
 - **[tg-chat-bot](https://github.com/melod1n/tg-chat-bot)**  
   TypeScript + Node.js/Bun Telegram Bot with a lot of commands, DB, AI (Ollama/Gemini/Mistral/OpenAI), Docker and CI/CD.
 
-- **[ovs-kmp](https://github.com/melod1n/ovs-kmp)**  
-  Kotlin Multiplatform app using Compose Multiplatform for Android, desktop, iOS and web.
-
-- **[vk-chat-bot](https://github.com/melod1n/vk-chat-bot)**  
-  TypeScript + Node.js VK bot with Docker and CI/CD.
-
 ---
 
 ## DevOps / Homelab
@@ -35,11 +29,10 @@ Outside of GitHub I maintain a small self-hosted setup:
 
 ## GitHub stats
 
-[![GitHub followers](https://img.shields.io/github/followers/melod1n?label=Followers&style=social)](https://github.com/melod1n?tab=followers)
-[![Total stars](https://img.shields.io/github/stars/melod1n?affiliations=OWNER&style=social)](https://github.com/melod1n?tab=repositories&q=&type=source&sort=stargazers)
+![Profile details](./profile-summary-card-output/radical/0-profile-details.svg)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=melod1n&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melod1n&show_icons=true&theme=radical&count_private=true&layout=compact&card_width=445&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Top languages](./profile-summary-card-output/radical/1-repos-per-language.svg)
+![GitHub stats](./profile-summary-card-output/radical/3-stats.svg)
 
 ---
 
