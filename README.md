@@ -43,9 +43,5 @@ Outside of GitHub I maintain a small self-hosted setup:
 [![Website](./assets/badges/website2.svg)](https://mlgt.ru)
 
 [![Telegram](./assets/badges/telegram.svg)](https://t.me/melod1n)
-[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/melod1n)
 [![VK](./assets/badges/vk.svg)](https://vk.com/melod1n)
-
-<!--
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melod1n&theme=radical&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/melod1n)
