@@ -38,12 +38,13 @@ Outside of GitHub I maintain a small self-hosted setup:
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-lischenkodev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lischenkodev@gmail.com)
-[![Website](https://img.shields.io/badge/Website-melod1n.github.io-000000?style=flat&logo=google-chrome&logoColor=white)](https://melod1n.github.io)
+[![Email](./assets/badges/email.svg)](mailto:lischenkodev@gmail.com)
+[![Website](./assets/badges/website.svg)](https://melod1n.github.io)
+[![Website](./assets/badges/website2.svg)](https://mlgt.ru)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@melod1n-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/melod1n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-melod1n-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melod1n)
-[![VK](https://img.shields.io/badge/VK-@melod1n-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/melod1n)
+[![Telegram](./assets/badges/telegram.svg)](https://t.me/melod1n)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/melod1n)
+[![VK](./assets/badges/vk.svg)](https://vk.com/melod1n)
 
 <!--
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melod1n&theme=radical&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
