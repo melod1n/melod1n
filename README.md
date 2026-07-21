@@ -1,10 +1,10 @@
-# Hi, I'm Danil 👋
+# Hi, I'm Danil
 
-Android & Kotlin Multiplatform developer building apps, bots and infrastructure around networking and local AI.
+Android Engineer with 5+ years of commercial experience.
 
-- Mainly working with Kotlin / Jetpack Compose / Compose Multiplatform
-- Also build Telegram / VK bots and local LLM tools (Ollama/Gemini/Mistral/OpenAI)
-- Enjoy self-hosting: Gitea, Jenkins, Docker
+I build production Android applications and libraries with Kotlin, Jetpack Compose, Coroutines, modular architecture and modern Android tooling. I also work with Kotlin Multiplatform, backend services, CI/CD and AI-assisted development.
+
+Currently open to remote Android roles and relocation.
 
 ---
 
@@ -27,20 +27,10 @@ Outside of GitHub I maintain a small self-hosted setup:
 
 ---
 
-## GitHub stats
-
-![Profile details](./profile-summary-card-output/radical/0-profile-details.svg)
-
-![Top languages](./profile-summary-card-output/radical/1-repos-per-language.svg)
-![GitHub stats](./profile-summary-card-output/radical/3-stats.svg)
-
----
-
 ## Contact
 
 [![Email](./assets/badges/email.svg)](mailto:lischenkodev@gmail.com)
 [![Website](./assets/badges/website.svg)](https://melod1n.github.io)
-[![Website](./assets/badges/website2.svg)](https://mlgt.ru)
 
 [![Telegram](./assets/badges/telegram.svg)](https://t.me/melod1n)
 [![VK](./assets/badges/vk.svg)](https://vk.com/melod1n)
