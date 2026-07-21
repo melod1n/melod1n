@@ -14,7 +14,7 @@ Currently open to remote Android roles and relocation.
   Unofficial VK messenger with modern Android stack (Compose, coroutines, modular architecture).
 
 - **[tg-chat-bot](https://github.com/melod1n/tg-chat-bot)**  
-  TypeScript + Node.js/Bun Telegram Bot with a lot of commands, DB, AI (Ollama/Gemini/Mistral/OpenAI), Docker and CI/CD.
+  TypeScript + Node.js/Bun Telegram Bot with a lot of commands, DB, AI, Docker and CI/CD.
 
 ---
 
